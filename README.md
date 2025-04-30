@@ -2,9 +2,9 @@
 Curious mind with a creative soul — I code, I design, and I sprinkle a little charm into every project I touch.
 
 💻 **Currently Learning:**  
-- Python (my go-to for turning dreams into logic)  
-- Java, C++, HTML & CSS (because versatility is ✨)  
-- Object-Oriented Programming  
+- Python 
+- Java, C++, HTML & CSS  
+- Object-Oriented Programming in C++ and Java
 - UI/UX magic with Figma — designing interfaces that feel like warm hugs 💖
 
 🎯 **Goals:**  
